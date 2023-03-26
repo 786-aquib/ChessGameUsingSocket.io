@@ -21,11 +21,6 @@ This is a real-time chess-playing site where you can join or create a room for p
 
 **Server:** Node, Express
 
-**Host:**  Heroku
-
-
-
-
 
 ## Screenshots
 
