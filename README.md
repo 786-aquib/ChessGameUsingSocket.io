@@ -8,7 +8,7 @@ Visit Site:(https://chess-game-w4il.onrender.com/))
 
 
 
-## Discreption and Features
+## Description and Features
 This is a real-time chess-playing site where you can join or create a room for playing chess with friends.
 
 * Site users Socket.io to Bidirectional and low-latency communication between players.
@@ -29,3 +29,7 @@ This is a real-time chess-playing site where you can join or create a room for p
 <img src="https://user-images.githubusercontent.com/76809414/201538382-4b26603b-499f-4c16-ba9e-22eb68a04403.png" width=50% height=50%>
 
 <img src="https://user-images.githubusercontent.com/76809414/201538388-2c499621-557d-4c7c-a9b7-0ee1e5170441.png" width=30% height=30%>
+
+## Fork this repo for Contribution
+
+* I am going to introduce some issues regarding UI for this game.
